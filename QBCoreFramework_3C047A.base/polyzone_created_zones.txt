@@ -1,0 +1,182 @@
+--Name: table | 2023-05-09T19:04:14Z
+BoxZone:Create(vector3(3868.14, 4189.46, 7.68), 4, 4, {
+  name="table",
+  heading=65,
+  --debugPoly=true,
+  minZ=5.08,
+  maxZ=9.08
+})
+
+--Name: fdgfdg | 2023-05-10T00:53:43Z
+BoxZone:Create(vector3(3596.84, 3669.95, 42.61), 2, 3, {
+  name="fdgfdg",
+  heading=80,
+  --debugPoly=true,
+  minZ=39.61,
+  maxZ=43.61
+})
+
+--Name: duty | 2023-05-11T12:34:59Z
+BoxZone:Create(vector3(-173.39, 294.1, 93.76), 1, 1, {
+  name="duty",
+  heading=0,
+  --debugPoly=true,
+  minZ=90.36,
+  maxZ=94.36
+})
+
+--Name: tray1 | 2023-05-11T12:37:25Z
+BoxZone:Create(vector3(-163.09, 293.88, 93.76), 2, 3, {
+  name="tray1",
+  heading=270,
+  --debugPoly=true,
+  minZ=89.96,
+  maxZ=93.96
+})
+
+--Name: tray2 | 2023-05-11T12:38:29Z
+BoxZone:Create(vector3(-163.03, 290.04, 93.76), 2, 3, {
+  name="tray2",
+  heading=270,
+  --debugPoly=true,
+  minZ=90.16,
+  maxZ=94.16
+})
+
+--Name: tray3 | 2023-05-11T12:40:14Z
+BoxZone:Create(vector3(-171.35, 295.04, 93.76), 0.6, 0.6, {
+  name="tray3",
+  heading=0,
+  --debugPoly=true,
+  minZ=90.36,
+  maxZ=94.36
+})
+
+--Name: juse | 2023-05-11T12:52:37Z
+BoxZone:Create(vector3(-171.59, 307.97, 97.99), 1, 2, {
+  name="juse",
+  heading=270,
+  --debugPoly=true,
+  minZ=95.39,
+  maxZ=99.39
+})
+
+--Name: fridge | 2023-05-11T12:55:39Z
+BoxZone:Create(vector3(-177.44, 306.57, 97.46), 1, 2, {
+  name="fridge",
+  heading=0,
+  --debugPoly=true,
+  minZ=94.86,
+  maxZ=98.86
+})
+
+--Name: pankake | 2023-05-11T12:57:58Z
+BoxZone:Create(vector3(-172.52, 300.55, 97.46), 1, 2, {
+  name="pankake",
+  heading=0,
+  --debugPoly=true,
+  minZ=94.46,
+  maxZ=98.46
+})
+
+--Name: micro | 2023-05-11T12:59:31Z
+BoxZone:Create(vector3(-171.92, 305.88, 97.46), 1, 3, {
+  name="micro",
+  heading=270,
+  --debugPoly=true,
+  minZ=94.66,
+  maxZ=98.66
+})
+
+--Name: cupkake | 2023-05-11T13:02:17Z
+BoxZone:Create(vector3(-175.85, 300.6, 97.46), 2, 1, {
+  name="cupkake",
+  heading=270,
+  --debugPoly=true,
+  minZ=93.86,
+  maxZ=97.86
+})
+
+--Name: sandwich | 2023-05-11T13:03:53Z
+BoxZone:Create(vector3(-177.84, 304.02, 97.46), 1, 2, {
+  name="sandwich",
+  heading=0,
+  --debugPoly=true,
+  minZ=93.86,
+  maxZ=97.86
+})
+
+--Name: pay | 2023-05-11T13:21:12Z
+BoxZone:Create(vector3(-171.08, 295.84, 93.76), 0.5, 0.5, {
+  name="pay",
+  heading=0,
+  --debugPoly=true,
+  minZ=90.36,
+  maxZ=94.36
+})
+
+--Name: ykzpark | 2023-05-14T04:32:34Z
+PolyZone:Create({
+  vector2(-1521.380859375, 78.1205368042),
+  vector2(-1520.323852539, 71.480857849122),
+  vector2(-1531.4509277344, 68.835235595704),
+  vector2(-1536.5520019532, 69.77239227295),
+  vector2(-1544.0378417968, 77.05615234375),
+  vector2(-1539.3662109375, 81.813850402832),
+  vector2(-1538.173461914, 80.667358398438),
+  vector2(-1537.3682861328, 81.161643981934),
+  vector2(-1532.9938964844, 77.143348693848)
+}, {
+  name="ykzpark",
+  --minZ = 56.750911712646,
+  --maxZ = 56.75093460083
+})
+
+--Name: ykz1park | 2023-05-14T04:33:36Z
+BoxZone:Create(vector3(-1523.41, 74.38, 56.75), 6, 4, {
+  name="ykz1park",
+  heading=10,
+  --debugPoly=true
+})
+
+--Name: ykz2park | 2023-05-14T04:34:14Z
+BoxZone:Create(vector3(-1527.87, 73.8, 56.75), 6, 5, {
+  name="ykz2park",
+  heading=10,
+  --debugPoly=true
+})
+
+--Name: ykz3park | 2023-05-14T04:34:56Z
+BoxZone:Create(vector3(-1537.9, 76.5, 56.75), 6, 5, {
+  name="ykz3park",
+  heading=315,
+  --debugPoly=true
+})
+
+--Name: ss | 2023-05-14T04:55:17Z
+BoxZone:Create(vector3(-1537.46, 74.68, 56.75), 2, 2, {
+  name="ss",
+  heading=0,
+  --debugPoly=true,
+  minZ=54.55,
+  maxZ=58.55
+})
+
+--Name: ykzmenu | 2023-05-14T05:09:36Z
+BoxZone:Create(vector3(-1499.18, 113.42, 55.69), 1.3, 2.3, {
+  name="ykzmenu",
+  heading=315,
+  --debugPoly=true,
+  minZ=51.89,
+  maxZ=55.89
+})
+
+--Name: hsp | 2023-05-14T06:17:52Z
+BoxZone:Create(vector3(318.22, -542.34, 28.74), 3, 3, {
+  name="hsp",
+  heading=350,
+  --debugPoly=true,
+  minZ=28.34,
+  maxZ=32.34
+})
+
