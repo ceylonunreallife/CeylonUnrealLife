@@ -1,0 +1,92 @@
+Version 165 32
+{
+	Shaders
+	{
+		normal_spec_decal.sps
+		{
+			BumpSampler cls_ap_yellowlines_n
+			DiffuseSampler cls_ap_yellowlines_diffcls_ap_yellowlines_a
+			SpecSampler cls_ap_yellowlines_diff
+			Bumpiness 1.5000000
+			SpecMapIntMask 1.0000000 0.0000000 0.0000000
+			SpecularFalloffMult 40.0000000
+			SpecularFresnel 0.9600000
+			SpecularIntensityMult 1.0000000
+			UseTessellation 0.0000000
+			WetnessMultiplier 0.0550000
+		}
+		decal.sps
+		{
+			DiffuseSampler ap1_01_wheelmarks1ap1_01_wheelmarks1b
+			SpecularFalloffMult 100.0000000
+			SpecularFresnel 0.9700000
+			SpecularIntensityMult 0.0000000
+			UseTessellation 0.0000000
+			WetnessMultiplier 0.0550000
+		}
+		decal.sps
+		{
+			DiffuseSampler cls_cs3_07_newroadmarkings01cls_cs3_07_newroadmarkings01_a
+			SpecularFalloffMult 100.0000000
+			SpecularFresnel 0.9700000
+			SpecularIntensityMult 0.0000000
+			UseTessellation 0.0000000
+			WetnessMultiplier 0.0550000
+		}
+		decal.sps
+		{
+			DiffuseSampler ap1_01decal_bdyshp_dirt_02sm_dmap1_01decal_bdyshp_dirt_02_sm
+			SpecularFalloffMult 100.0000000
+			SpecularFresnel 0.9700000
+			SpecularIntensityMult 0.1250000
+			UseTessellation 0.0000000
+			WetnessMultiplier 0.0550000
+		}
+		normal_spec_decal.sps
+		{
+			BumpSampler im_roadblends001_n
+			DiffuseSampler im_roadblends001
+			SpecSampler im_roadblends001_s
+			Bumpiness 1.0000000
+			SpecMapIntMask 1.0000000 0.0000000 0.0000000
+			SpecularFalloffMult 100.0000000
+			SpecularFresnel 0.9700000
+			SpecularIntensityMult 0.0000000
+			UseTessellation 0.0000000
+			WetnessMultiplier 0.0550000
+		}
+		decal.sps
+		{
+			DiffuseSampler et_oilstainet_oilstain_a
+			SpecularFalloffMult 100.0000000
+			SpecularFresnel 0.9700000
+			SpecularIntensityMult 0.0200000
+			UseTessellation 0.0000000
+			WetnessMultiplier 0.0550000
+		}
+		default.sps
+		{
+			DiffuseSampler im_roadmarkings01
+			HardAlphaBlend 1.0000000
+			UseTessellation 0.0000000
+		}
+	}
+	Skeleton null
+	LodGroup
+	{
+		High 9998.0
+		{
+			evo_ff_up_decals_1\evo_ff_up_decals_1_high.mesh 0
+		}
+		Med 9998.0
+		Low 9998.0
+		Vlow 9998.0
+		AABBMin -258.9649963 -7.0479431 10.5150204
+		AABBMax -70.3386765 97.8855515 13.0199404
+		Radius 107.932
+		Center -164.6518402 45.4188042 11.7674809
+	}
+	Light null
+	Bound null
+	Joints null
+}

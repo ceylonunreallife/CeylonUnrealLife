@@ -1,0 +1,40 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>hei_bh1_36_strm_0.ymap</Item>
+    <Item>hei_bh1_rd.ymap</Item>
+    <Item>hei_bh1_rd_critical_1.ymap</Item>
+    <Item>hei_bh1_rd_strm_2.ymap</Item>
+    <Item>remove.ymap</Item>
+    <Item>yakuza.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>dk.ytyp</Item>
+    <Item>yakuza.ytyp</Item>
+    <Item>yakuza1.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames>
+    <Item>dk.ydr</Item>
+    <Item>lafa2k_yakuza_dragon.ydr</Item>
+    <Item>pagoda_a.ydr</Item>
+    <Item>pagoda_b.ydr</Item>
+    <Item>yakuza.ydr</Item>
+    <Item>yakuza_frente_b.ydr</Item>
+    <Item>yakuza_frente_d.ydr</Item>
+    <Item>yakuza_gate_l.ydr</Item>
+    <Item>yakuza_tree.ydr</Item>
+  </YdrFilenames>
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames>
+    <Item>lafa2k_yakuza_texture.ytd</Item>
+    <Item>yakuza_gate.ytd</Item>
+  </YtdFilenames>
+</CodeWalkerProject>
